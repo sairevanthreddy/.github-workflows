@@ -3,7 +3,7 @@ name: CI/CD Pipeline
 on:
   push:
     branches:
-      - main  # Change this if your main branch has a different name
+      - wp-pages  # Change this if your main branch has a different name
 
 jobs:
   build:
